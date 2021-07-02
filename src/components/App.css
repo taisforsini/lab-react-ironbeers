@@ -1,0 +1,23 @@
+.beerImage {
+  width: auto;
+  height: 150px;
+  display: block;
+}
+
+.beerList {
+  list-style: none;
+  align-items: center;
+  display: flex;
+}
+
+.beerContainer {
+  padding-left: 20px;
+}
+
+.beerTitle {
+  font-weight: bold;
+}
+
+.beerDesc {
+  color: gray;
+}
