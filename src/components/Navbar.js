@@ -4,7 +4,7 @@ import React from 'react';
 function Navbar() {
   return (
     <nav className="navbar navbar-light bg-light">
-      <div className="container">
+      <div>
         <Link className="navbar-brand" to="/">
           <img
             src={'/docs/5.0/assets/brand/bootstrap-logo.svg'}
